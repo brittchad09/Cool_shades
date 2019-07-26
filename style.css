@@ -16,3 +16,22 @@ background-size: cover;
   margin: 0 8px 0 0;
 }
 .btn.btn-danger{background-color:#d51419 !important}
+
+.ig-rel {
+position: relative;
+}
+
+
+.ig-abs { position: absolute;
+  bottom: 10px;
+  left: 25px;
+}
+
+.imgbone-conduction {
+  margin-right: 150px;
+
+}
+.bc-link {
+  font-weight: bold;
+  color:red;
+background-color:white !important;}
