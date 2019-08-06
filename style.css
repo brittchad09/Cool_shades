@@ -1,37 +1,61 @@
-.hero {
-background-image: url('images/hero.jpg');
-background-size: cover;
+.hero
+{
+  background-image: url('images/hero.jpg');
+  background-size: cover;
 }
 
-.imgfloat {
+.imgfloat
+{
   float: right;
   margin: 0 0 1em 1em;
 }
 
-.logo-subimage {
+.logo-subimage
+{
   font-size 1.5em;
   font-style:italic;
   font-weight: bold;
   float: right;
   margin: 0 8px 0 0;
 }
-.btn.btn-danger{background-color:#d51419 !important}
 
-.ig-rel {
-position: relative;
+.btn.btn-danger
+{
+  background-color:#d51419 !important;
 }
 
+.ig-rel
+{
+  position: relative;
+}
 
-.ig-abs { position: absolute;
+.ig-abs
+{
+  position: absolute;
   bottom: 10px;
   left: 25px;
 }
 
-.imgbone-conduction {
+.imgbone-conduction
+{
   margin-right: 150px;
-
 }
-.bc-link {
+
+.bc-link
+{
   font-weight: bold;
   color:red;
-background-color:white !important;}
+  background-color:white !important;
+}
+
+.bone
+{
+  vertical-align: middle;
+}
+#footer{background-color: black
+
+}
+
+#footer a{color:white !important
+
+}
